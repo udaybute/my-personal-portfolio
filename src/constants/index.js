@@ -28,6 +28,7 @@ export const EXPERIENCES = [
 export const PROJECTS = [
   {
     title: "Cryptocurrency Tracker Application",
+    projectLink: "https://stirring-caramel-effdc7.netlify.app/",
     image: project1,
     description:
     "Created a cryptocurrency tracker application using React.js. " +
@@ -39,6 +40,7 @@ export const PROJECTS = [
 },
   {
     title: "Task Management App",
+    projectLink:"",
     image: project2,
     description:
       "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
@@ -46,6 +48,7 @@ export const PROJECTS = [
   },
   {
     title: "Portfolio Website",
+    projectLink:"",
     image: project3,
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
@@ -53,6 +56,7 @@ export const PROJECTS = [
   },
   {
     title: "Blogging Platform",
+    projectLink:"",
     image: project4,
     description:
       "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
